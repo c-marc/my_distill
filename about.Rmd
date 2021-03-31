@@ -1,0 +1,18 @@
+---
+title: "About"
+description: |
+  Some additional details about this website.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is a **work in progress**.
+
+Maybe some of the following will appear:
+
+- have a landing page
+- create article from notes (if I can clean some of those messy notes)
+- publish some of them as posts
+- provide links to some stuffs (presentations, apps... whatever...)

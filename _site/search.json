@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "Some additional details about this website.",
+      "author": [],
+      "contents": "\nThis is a work in progress.\nMaybe some of the following will appear:\nhave a landing page\ncreate article from notes (if I can clean some of those messy notes)\npublish some of them as posts\nprovide links to some stuffs (presentations, apps… whatever…)\n\n\n\n",
+      "last_modified": "2021-03-31T17:18:53+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Some (not that) personal stuffs",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-31T17:20:07+02:00"
+    },
+    {
+      "path": "testing.html",
+      "title": "Testing list of posts",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-31T17:02:23+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

@@ -1,0 +1,6 @@
+---
+title: "Testing list of posts"
+listing:
+  posts:
+    - 2021-03-31-test
+---

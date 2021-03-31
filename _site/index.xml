@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Marc C</title>
+    <link>https://c-marc.netlify.app/</link>
+    <atom:link href="https://c-marc.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+    <description>A landing page / website / blog
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to A Blog</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://c-marc.netlify.app/posts/welcome</link>
+      <description>Welcome to our new blog, A Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://c-marc.netlify.app/posts/welcome</guid>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test</title>
+      <dc:creator>Marc Car</dc:creator>
+      <link>https://c-marc.netlify.app/posts/2021-03-31-test</link>
+      <description>A post to test various types of content and styling</description>
+      <category>test</category>
+      <guid>https://c-marc.netlify.app/posts/2021-03-31-test</guid>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://c-marc.netlify.app/posts/2021-03-31-test/a-post-to-test-various-types-of-content-and-styling_files/figure-html5/plot-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>

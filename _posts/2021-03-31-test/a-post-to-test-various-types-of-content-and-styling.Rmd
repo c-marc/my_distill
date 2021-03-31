@@ -1,0 +1,74 @@
+---
+title: "Test"
+description: |
+  A post to test various types of content and styling
+author:
+  - name: Marc Car
+    url: https://c-marc.netlify.app/
+date: 03-31-2021
+categories:
+  - test
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Chapter 1
+
+## Basic MD
+
+Mardown *test* **test**.
+
+TODO:
+
+- [x] test A
+- [ ] test B
+
+A link to [note](note1)
+
+> Test everything
+> and test your tests
+
+## Code
+
+R:
+
+```{r advancedr, echo=TRUE}
+f0 <- function(x){
+  x+1
+}
+f0(1)
+```
+
+Some other code:
+
+```
+git status
+```
+
+## Plot
+
+```{r plot, echo=FALSE}
+x <- seq(-4, 4, length.out = 100)
+plot(x, dnorm(x), type="l")
+```
+
+## Maths
+
+Inline $\sqrt(2) + 2$.
+
+Clever equalities:
+
+$$1+1 = \frac{1}{1} + 1 = 1 \times 1 + \alpha \div \alpha$$
+
+# Chapter 2
+
+----
+
+[note1]: Looks good...

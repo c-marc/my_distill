@@ -1,0 +1,40 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to A Blog",
+    "description": "Welcome to our new blog, A Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-03-31",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-03-31T16:06:15+02:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-03-31-test/",
+    "title": "Test",
+    "description": "A post to test various types of content and styling",
+    "author": [
+      {
+        "name": "Marc Car",
+        "url": "https://c-marc.netlify.app/"
+      }
+    ],
+    "date": "2021-03-31",
+    "categories": [
+      "test"
+    ],
+    "contents": "\n\nContents\nChapter 1\nBasic MD\nCode\nPlot\nMaths\n\nChapter 2\n\nChapter 1\nBasic MD\nMardown test test.\nTODO:\n\ntest A\n\ntest B\nA link to note\n\nTest everything and test your tests\n\nCode\nR:\n\n\nf0 <- function(x){\n  x+1\n}\nf0(1)\n\n\n[1] 2\n\nSome other code:\ngit status\nPlot\n\n\n\nMaths\nInline \\(\\sqrt(2) + 2\\).\nClever equalities:\n\\[1+1 = \\frac{1}{1} + 1 = 1 \\times 1 + \\alpha \\div \\alpha\\]\nChapter 2\n\n\n\n",
+    "preview": "posts/2021-03-31-test/a-post-to-test-various-types-of-content-and-styling_files/figure-html5/plot-1.png",
+    "last_modified": "2021-03-31T17:51:10+02:00",
+    "input_file": "a-post-to-test-various-types-of-content-and-styling.utf8.md",
+    "preview_width": 1248,
+    "preview_height": 768
+  }
+]
